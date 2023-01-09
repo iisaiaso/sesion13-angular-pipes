@@ -10,4 +10,6 @@ export class HomeComponent {
   valor!: string
 
   title2 = 'currency pipes'
+  moneda!:string
+  option!:string
 }
